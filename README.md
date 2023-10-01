@@ -6,7 +6,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codingstella.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://vasanth2610.github.io/vasanth-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
