@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Vasanth - Personal portfolio</h2>
 
