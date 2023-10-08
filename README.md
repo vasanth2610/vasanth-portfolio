@@ -10,8 +10,6 @@
 
 <br />
 
-### Demo Screeshots
 
-![Vasanth Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 This project is **free to use** and does not contains any license.
